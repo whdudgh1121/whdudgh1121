@@ -1,5 +1,10 @@
+<div align="center">
 ## 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=21C8C6&background=EBFF9600&width=600&lines=%EC%84%B1%EC%9E%A5%ED%98%95+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%A1%B0%EC%98%81%ED%98%B8%EC%9E%85%EB%8B%88%EB%8B%A4+!;Junior_Developer_Jo+Young-ho)](https://git.io/typing-svg) 
+
+  
+</div>
+
 <!--
 **whdudgh1121/whdudgh1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div align="center">
