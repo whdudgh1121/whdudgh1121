@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 -->
 
 ✨내 기술 스택✨
-<div align"center">
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -42,7 +41,6 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://raw.githubusercontent.com/whdudgh1121/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/whdudgh1121/github-stats/master/generated/overview.svg#gh-light-mode-only)
-</div>
 
 
 
