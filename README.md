@@ -13,11 +13,15 @@
   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" alt="banner"/>
 </div>
 
+<!--
 <div align="center">
   <a href="https://github.com/whdudgh1121/whdudgh1121">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whdudgh1121&layout=compact" alt="Top Langs"/>
   </a>
 </div>
+
+-->
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
