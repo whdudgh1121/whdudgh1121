@@ -1,10 +1,10 @@
-#<div align="center">
+<div align="center">
   <h2>👋</h2>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer&text=Junior_developer%20Jo_Youngho&fontSize=50&textAlign=70" />
 
 </div><br>
 
-#<div align="center">✨ Coding Stack ✨</div><br>
+##✨ Coding Stack ✨
 <div align="center">
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger" />
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </div>
 
-#<div align="center">✨ Coding Stack ✨</div><br>
+<div align="center">✨ Coding Stack ✨</div><br>
 
 <div align="center">
   <a href="https://github.com/whdudgh1121/whdudgh1121">
