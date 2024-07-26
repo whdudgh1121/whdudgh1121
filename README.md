@@ -4,7 +4,7 @@
 
 </div><br>
 
-<b><span style="font-size:100%">✨Coding Stack✨</span></b>
+<b><span style="font-align:center">✨Coding Stack✨</span></b>
 <div align="center">
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger" />
