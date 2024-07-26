@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </div>
 
-<div align="center">✨ Coding Stack ✨</div><br>
+<div align="center">✨ Most Used ✨</div><br>
 
 <div align="center">
   <a href="https://github.com/whdudgh1121/whdudgh1121">
