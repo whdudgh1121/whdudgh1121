@@ -1,6 +1,6 @@
 <div align="center">
   <h2>👋</h2>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer&text=Junior_developer%20Jo_Youngho&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer&text=Junior_developer%20Jo_Youngho&fontSize=50&textAlign=70" />
 
 
 
